@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*AraosEtXklevRVaErQS5mQ.jpeg)
 
 <h1 align="center">Hi 👋, I'm Veljko Jakšić</h1>
 <h3 align="center">A passionate Android developer from Serbia</h3>
