@@ -27,6 +27,12 @@
 
 </br></br>
 
-<p align="center"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaksa97&show_icons=true&locale=en&layout=compact" alt="jaksa97" /></p>
+<p align="center">
+  <img width="400"
+       src="https://github-readme-stats.vercel.app/api?username=jaksa97&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<p align="center"><img width="400" src="https://github-readme-stats.vercel.app/api?username=jaksa97&show_icons=true&locale=en" alt="jaksa97" /></p>
+<p align="center">
+  <img width="400"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaksa97&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
