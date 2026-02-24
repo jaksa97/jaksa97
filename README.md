@@ -27,12 +27,8 @@
 
 </br></br>
 
-<p align="center">
-  <img width="400"
-       src="https://github-readme-stats.vercel.app/api?username=jaksa97&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jaksa97&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jaksa97&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaksa97&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img width="400"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaksa97&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
